@@ -19,7 +19,6 @@ Frontend:
 - HTML5
 - CSS3
 - Bootstrap
-- React
 
 Backend:
 - C#
@@ -38,7 +37,6 @@ Backend:
 
 ## Must Have
 - User Registration & Login
-- Authentication
 - Role-Based Authorization (User / Advisor / Admin)
 - Case Management
 - Messaging System
@@ -63,6 +61,7 @@ Backend:
 - AI Assistant (FAQ)
 - Real-time Live Chat (SignalR)
 - Email Notifications
+- Authentication
 
 
 ## Future Improvements

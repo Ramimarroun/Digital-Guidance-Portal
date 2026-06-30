@@ -37,36 +37,36 @@ Backend:
 
 
 ## Must Have
-•	User Registration & Login
-•	JWT Authentication
-•	Role-Based Authorization (User / Advisor / Admin)
-•	Case Management
-•	Messaging System
-•	File Upload
-•	User Dashboard
-•	Advisor Dashboard
-•	Admin Dashboard
-•	SQL Server Database
+- User Registration & Login
+- Authentication
+- Role-Based Authorization (User / Advisor / Admin)
+- Case Management
+- Messaging System
+- File Upload
+- User Dashboard
+- Advisor Dashboard
+- Admin Dashboard
+- SQL Server Database
 
 
 ## Should Have
 
-•	Search & Filtering
-•	Notifications
-•	Charts & Statistics
-•	Multi-language Support (English / Arabic / Norwegian)
-•	PDF Export
-•	Azure Deployment
+- Search & Filtering
+- Notifications
+- Charts & Statistics
+- Multi-language Support (English / Arabic / Norwegian)
+- PDF Export
+- Azure Deployment
 
 
 ## Nice to Have
-•	AI Assistant (FAQ)
-•	Real-time Live Chat (SignalR)
-•	Email Notifications
+- AI Assistant (FAQ)
+- Real-time Live Chat (SignalR)
+- Email Notifications
 
 
 ## Future Improvements
-•	Video Consultation
-•	AI Translation
-•	Mobile Application
+- Video Consultation
+- AI Translation
+- Mobile Application
 

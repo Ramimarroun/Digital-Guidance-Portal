@@ -1,5 +1,5 @@
 Team Members:
-1- Rami Maroun
+- Rami Maroun
 
 # Project Description
 The project is a web-based platform that helps newcomers and vulnerable individuals in Norway navigate public services such as NAV, UDI, BankID, Skatteetaten, healthcare, housing, and employment. Users can request support, communicate with advisors, upload documents, and track their cases through a secure application. 
